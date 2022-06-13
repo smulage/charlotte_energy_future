@@ -1,4 +1,4 @@
-# Mecklenburg County (Charlotte City) - investing in its Energy future
+# Mecklenburg County (Charlotte City) - Investing in its Energy future
 ### Spatial analysis of sustainable energy solutions
 
 Cities are generally built on the hub and spoke model. The downtown area is highly commercial for retail and office while residential neighborhoods surround it. As cities grow and the need for commercial space goes up, residences closer to downtown are converted and homes move farther away. When cities hit geographic barriers, they start to build up like in Hong Kong or New York City. However with no such natural barriers, they generally spread out in an ever increasing radius and eventually their growth plateaus. We then see the rise of sister cities nearby that can pick up the overflows.
