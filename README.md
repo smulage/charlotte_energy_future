@@ -8,7 +8,8 @@ Knowing what we do, we would like to apply the lessons learnt towards building m
   - it currently has an abundant energy source owing to a large nuclear power generation plant that serves retail customers in two states with electricity bills that are 20% below the national average
   - it lacks large geographic or climate risk barriers like coast lines, major rivers or hurricane corridors
   - it resides close to a large airport (ATL is a 4 hour drive)
-There are however a few issues that need to be addressed to ensure the city adapts for the future:
+
+There are however a few issues that need to be addressed to ensure the city adapts for its future:
   - the county’s climate is getting wetter (more rainfall) and drier (rising temperatures)
   - housing has spread rapidly over the past few decades and breached Charlotte city limits
   - 60% of the state’s energy consumption is in its residential and transportation sector while a majority of this energy is produced from non-renewable sources
